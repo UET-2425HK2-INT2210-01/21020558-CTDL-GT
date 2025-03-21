@@ -1,1 +1,4 @@
-
+Câu 1  
+Hai tính chất quan trọng của hàm băm:
+- Tính đồng nhất (Uniformity): Hàm băm phải phân phối giá trị băm đồng đều trên không gian đầu ra để tránh va chạm (collision).
+- Tính không thể đảo ngược (Preimage Resistance): Không thể tìm được đầu vào ban đầu từ giá trị băm đã cho.
